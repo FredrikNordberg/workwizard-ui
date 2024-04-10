@@ -1,0 +1,8 @@
+/* footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.25rem;
+    width: 100%; /* Ändra bredden till önskad storlek */
+    margin: 0 auto; /* Centrera footern horisontellt */
+  }

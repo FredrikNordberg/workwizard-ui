@@ -1,0 +1,30 @@
+p {
+  color: black;
+  font-size: 1.5rem;
+}
+
+#customer-reviews p {
+  color:white;
+  font-size: 1rem;
+}
+
+#customer-reviews h2 {
+  color: white;
+  padding-top: 1.5rem;
+}
+
+
+#customer-reviews {
+  height: 100%;
+  background: black;
+  color: var(--primary-color);
+  padding-top: 1rem;
+  text-align: center;
+}
+
+#customer-reviews section {
+  background: #004d40;
+  padding: 5px;
+  margin-bottom: 60px;
+  border-radius: 10px;
+}

@@ -1,0 +1,14 @@
+/* Får knapparna under varandra..*/
+.WorkOrder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .WorkOrder button {
+    background-color: red;
+    margin: 1rem;
+    padding: 0.1rem;
+    font-size: 0.9rem;
+    
+  }
